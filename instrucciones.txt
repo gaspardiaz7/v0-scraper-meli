@@ -1,0 +1,2 @@
+terminal1 - python scraper.py
+terminal 2 - npx next start -p 5000 -H 0.0.0.0
